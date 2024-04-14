@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun onButtonClicked(view: View) {
+    fun onButtonClickedd(view: View) {
         // Yol kayıt tuşuna basılınca CameraActivity'e yönlendirme
         val intent = Intent(this, CameraActivity::class.java)
         startActivity(intent)
