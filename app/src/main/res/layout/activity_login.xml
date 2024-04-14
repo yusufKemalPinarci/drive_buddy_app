@@ -17,7 +17,7 @@
         android:background="@drawable/button_arkaplan"
         android:onClick="onLoginButtonClicked"
         android:text="Sign in"
-        android:textSize="20dp"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
